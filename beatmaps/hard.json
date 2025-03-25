@@ -1,10 +1,10 @@
 {
 
     "musicOffset": 0,
-    "approachSpeedMS": 2000,
+    "approachSpeedMS": 1250,
     "musicLengthS": 10,
     "markers": [
-        {"a":"L", "t":1},
+        {"a":"R", "t":1},
 
 
         {"a":"L", "t":3},
